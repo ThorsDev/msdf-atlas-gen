@@ -1,6 +1,7 @@
 [submodule "msdfgen"]
 	path = msdfgen
 	url = https://github.com/ThorsDev/msdfgen
+	branch = master
 [submodule "artery-font-format"]
 	path = artery-font-format
 	url = https://github.com/ThorsDev/artery-font-format
