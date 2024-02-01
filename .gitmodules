@@ -4,3 +4,4 @@
 [submodule "msdfgen"]
 	path = msdfgen
 	url = https://github.com/ThorsDev/msdfgen.git
+	branch = master
