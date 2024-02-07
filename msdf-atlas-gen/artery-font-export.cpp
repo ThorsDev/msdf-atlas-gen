@@ -1,6 +1,7 @@
 
 #include "artery-font-export.h"
 
+#define MSDF_ATLAS_NO_ARTERY_FONT
 #ifndef MSDF_ATLAS_NO_ARTERY_FONT
 
 #include <artery-font/std-artery-font.h>
