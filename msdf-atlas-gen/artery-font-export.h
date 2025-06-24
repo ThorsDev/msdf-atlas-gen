@@ -1,10 +1,11 @@
 
 #pragma once
 
-#ifndef MSDF_ATLAS_NO_ARTERY_FONT
-
 #include <msdfgen.h>
 #include <msdfgen-ext.h>
+
+#define MSDF_ATLAS_NO_ARTERY_FONT
+#ifndef MSDF_ATLAS_NO_ARTERY_FONT
 #include "types.h"
 #include "FontGeometry.h"
 
